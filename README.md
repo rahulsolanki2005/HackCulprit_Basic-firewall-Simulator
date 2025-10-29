@@ -1,0 +1,2 @@
+# HackCulprit_Basic-firewall-Simulator
+ This project is a Basic Firewall Simulator built in Python that mimics how real firewalls work. It lets users create, apply, and manage rules to allow or block network traffic based on IP addresses, ports, and protocols. The simulator provides a simple command-line interface with a welcome message and interactive options, making it a great learning tool for understanding fundamental firewall and network security concepts.
