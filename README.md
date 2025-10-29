@@ -17,10 +17,7 @@ This document outlines the design, development, and implementation of the projec
 
 ---
 
-## 2. Problem Statement
-[Briefly describe the challenge or gap the project addresses.]
-
-**Example:**  
+## 2. Problem Statement 
 In the current digital landscape, beginners often struggle to understand how firewall rules are applied and how packets are filtered. This project provides a **lightweight, interactive Python-based firewall simulator** that demonstrates packet generation, rule checking, and filtering — offering a simplified yet practical learning experience.
 
 ---
