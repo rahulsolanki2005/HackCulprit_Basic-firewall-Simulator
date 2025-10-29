@@ -61,7 +61,7 @@ The project was completed in the following stages:
 To run this project locally, follow the steps below:
 
     # Clone the repository
-    git clone https://github.com/rahulsolanki01/basic-firewall-simulator.git
+    git clone https://github.com/rahulsolanki2005/HackCulprit_Basic-firewall-Simulator
 
     # Navigate to the project directory
     cd basic-firewall-simulator
